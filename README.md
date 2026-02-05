@@ -1,4 +1,4 @@
-# FSD Exp2 - Student Dashboard Project
+# FSD Exp2
 
 ## Overview
 This project is a simple, modern web app built with React, TypeScript, and Vite. It demonstrates how to structure a frontend project, build reusable components, and present a clean user interface that can be extended for real-world use cases.
